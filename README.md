@@ -174,5 +174,5 @@ This is a portfolio version of a production pipeline. All real distributor/partn
 
 ## Author
 
-**Muhammad Basit Hussain** — Data Engineer / Analytics Engineer  
+**Syed Basit Hussain Shah** — Data Engineer / Analytics Engineer  
 [GitHub](https://github.com/sadaatalsyed) · [LinkedIn](#)
