@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Data files – never commit source or output data to version control.
+# Real source files contain PII (shop owner names, CNICs, contact numbers).
+data/source_files/
+data/output_files/
+data/invoices/
+*.xlsx
+*.csv
+
+# Jupyter artefacts (original notebooks kept locally for reference only)
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
